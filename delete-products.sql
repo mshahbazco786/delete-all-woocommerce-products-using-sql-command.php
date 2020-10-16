@@ -34,3 +34,5 @@ DELETE meta FROM wp_termmeta meta LEFT JOIN wp_terms terms ON terms.term_id = me
 DELETE FROM wp_woocommerce_attribute_taxonomies;
 
 DELETE FROM wp_woocommerce_sessions;
+
+-- // All done
