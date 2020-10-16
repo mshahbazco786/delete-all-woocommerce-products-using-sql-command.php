@@ -35,4 +35,4 @@ DELETE FROM wp_woocommerce_attribute_taxonomies;
 
 DELETE FROM wp_woocommerce_sessions;
 
--- // All done
+-- New Comment --
